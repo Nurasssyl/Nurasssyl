@@ -1,8 +1,3 @@
-### GitHub Profile Information
-
-**Name:** Nurassyl Abdrazakuly
-
-**About Me:**
 
 👨‍💻 I am a Data Scientist with a passion for data, analytics, and science. My expertise includes working with tools like R and Python, and I have a strong interest in various projects, including:
 
@@ -31,6 +26,4 @@
 **Scientific Contributions:**
 - 📚 Engaged in scientific research. [View Research](https://dslib.kaznu.kz/index.php/kaznu/article/view/72)
 
-**Contact:** [Your Email](mailto:youremail@example.com)
-
-For more details, visit [Nurassyl on GitHub](https://github.com/Nurasssyl).
+**You can find my contact information in my profile.**
