@@ -22,3 +22,8 @@ What do I use in my work?
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+![Nurasssyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurasssyl&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurasssyl" alt="Nurasssyl" />
+
+
+
