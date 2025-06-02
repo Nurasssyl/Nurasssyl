@@ -1,4 +1,4 @@
-```markdown
+
 # Data Science Projects by Nurasyl Abdrazakuly
 
 This repository contains selected data science projects by Nurasyl Abdrazakuly — a data scientist with 4+ years of experience in machine learning, business analytics, and data-driven product development. The projects range from predictive modeling and process optimization to custom visual storytelling.
@@ -15,9 +15,9 @@ Python ≥3.9 / R ≥4.2
 pip install -r requirements.txt  
 or install key R libraries:
 
-```r
+r
 install.packages(c("sf", "ggplot2", "dplyr", "rayshader"))
-```
+
 
 ### Running
 
@@ -75,4 +75,3 @@ MIT License — see `LICENSE.md`
 ## Acknowledgments
 
 Thanks to open data providers, mentors, and the international data science community.
-```
