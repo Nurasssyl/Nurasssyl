@@ -1,29 +1,78 @@
+```markdown
+# Data Science Projects by Nurasyl Abdrazakuly
 
-👨‍💻 I am a Data Scientist with a passion for data, analytics, and science. My expertise includes working with tools like R and Python, and I have a strong interest in various projects.
+This repository contains selected data science projects by Nurasyl Abdrazakuly — a data scientist with 4+ years of experience in machine learning, business analytics, and data-driven product development. The projects range from predictive modeling and process optimization to custom visual storytelling.
 
-What do I use in my work?
+> 🧭 Geospatial and demographic mapping is included as a side interest and visual exploration tool.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-00BFFF?style=for-the-badge&logo=geopandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-3BAB2E?style=for-the-badge&logo=qgis&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## Getting Started
 
+Clone the repository and explore each project in its own folder. Some projects are in R, others in Python — both are reproducible and documented.
 
-![Nurasssyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurasssyl&show_icons=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurasssyl" alt="Nurasssyl" />
+### Prerequisites
 
+Python ≥3.9 / R ≥4.2  
+pip install -r requirements.txt  
+or install key R libraries:
 
+```r
+install.packages(c("sf", "ggplot2", "dplyr", "rayshader"))
+```
 
+### Running
+
+Each project contains a `notebook.ipynb` or `main.R` script with inputs, processing steps, and visual outputs.
+
+## Highlighted Projects
+
+🧠 **Credit Scoring Engine**  
+Built a Python model that generates credit scores from raw customer profiles, improving efficiency in loan decisions.
+
+📈 **Public Services Optimization**  
+Used data science methods to identify inefficiencies in citizen services and proposed digital transformation models.
+
+📊 **Revenue Uplift via Forecasting**  
+Created a predictive model that helped increase company revenue by 20% through better planning and targeting.
+
+🗺️ **Demographic Visualizations (Side project)**  
+Mapped ethnic diversity and urbanization in Central Asia using open geodata and customized visual aesthetics.
+
+## Testing
+
+Each project includes small-scale validations and result sanity checks.
+
+```bash
+pytest tests/
+Rscript test/validate.R
+```
+
+## Deployment
+
+Visual outputs are exportable to:
+
+- PNG / PDF (for publications)
+- HTML maps (Leaflet / Folium)
+- Dashboards (Power BI, Tableau)
+
+## Built With
+
+**Languages:** Python, R, C++  
+**ML/DS Libraries:** scikit-learn, TensorFlow, XGBoost, pandas, seaborn  
+**Databases:** PostgreSQL, MySQL  
+**Visualization:** Power BI, Tableau, matplotlib, ggplot2  
+**GIS (hobby):** QGIS, Leaflet, GeoPandas
+
+## Author
+
+**Nurasyl Abdrazakuly**  
+Data Scientist @ Jusan Garant  
+[🌐 Portfolio](https://nurasyl.space) | [📊 Kaggle](https://www.kaggle.com/nurasssyl) | [📎 LinkedIn](https://www.linkedin.com/in/nurasylabdrazakuly)
+
+## License
+
+MIT License — see `LICENSE.md`
+
+## Acknowledgments
+
+Thanks to open data providers, mentors, and the international data science community.
+```
