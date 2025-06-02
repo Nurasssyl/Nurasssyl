@@ -1,29 +1,40 @@
 
 # Data Science Projects by Nurasyl Abdrazakuly
 
+[![Data Scientist](https://img.shields.io/badge/Role-Data%20Scientist-blue)](https://linkedin.com/in/nurasylabdrazakuly)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-yellow?logo=python)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-4.2%2B-lightblue?logo=r)](https://www.r-project.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)
+[![View Portfolio](https://img.shields.io/badge/🌐%20Portfolio-nurasyl.space-black)](https://nurasyl.space)
+[![View on Kaggle](https://img.shields.io/badge/🔬%20Kaggle-Notebooks-red)](https://kaggle.com/nurasssyl)
+
 This repository contains selected data science projects by Nurasyl Abdrazakuly — a data scientist with 4+ years of experience in machine learning, business analytics, and data-driven product development. The projects range from predictive modeling and process optimization to custom visual storytelling.
 
 > 🧭 Geospatial and demographic mapping is included as a side interest and visual exploration tool.
 
-## Getting Started
+---
+
+## 🚀 Getting Started
 
 Clone the repository and explore each project in its own folder. Some projects are in R, others in Python — both are reproducible and documented.
 
-### Prerequisites
+### ⚙️ Prerequisites
 
 Python ≥3.9 / R ≥4.2  
 pip install -r requirements.txt  
 or install key R libraries:
 
-r
+```r
 install.packages(c("sf", "ggplot2", "dplyr", "rayshader"))
+```
 
-
-### Running
+### ▶️ Running
 
 Each project contains a `notebook.ipynb` or `main.R` script with inputs, processing steps, and visual outputs.
 
-## Highlighted Projects
+---
+
+## 💡 Highlighted Projects
 
 🧠 **Credit Scoring Engine**  
 Built a Python model that generates credit scores from raw customer profiles, improving efficiency in loan decisions.
@@ -37,7 +48,9 @@ Created a predictive model that helped increase company revenue by 20% through b
 🗺️ **Demographic Visualizations (Side project)**  
 Mapped ethnic diversity and urbanization in Central Asia using open geodata and customized visual aesthetics.
 
-## Testing
+---
+
+## ✅ Testing
 
 Each project includes small-scale validations and result sanity checks.
 
@@ -46,7 +59,9 @@ pytest tests/
 Rscript test/validate.R
 ```
 
-## Deployment
+---
+
+## 🌍 Deployment
 
 Visual outputs are exportable to:
 
@@ -54,7 +69,9 @@ Visual outputs are exportable to:
 - HTML maps (Leaflet / Folium)
 - Dashboards (Power BI, Tableau)
 
-## Built With
+---
+
+## 🧰 Built With
 
 **Languages:** Python, R, C++  
 **ML/DS Libraries:** scikit-learn, TensorFlow, XGBoost, pandas, seaborn  
@@ -62,16 +79,23 @@ Visual outputs are exportable to:
 **Visualization:** Power BI, Tableau, matplotlib, ggplot2  
 **GIS (hobby):** QGIS, Leaflet, GeoPandas
 
-## Author
+---
+
+## 👤 Author
 
 **Nurasyl Abdrazakuly**  
 Data Scientist @ Jusan Garant  
 [🌐 Portfolio](https://nurasyl.space) | [📊 Kaggle](https://www.kaggle.com/nurasssyl) | [📎 LinkedIn](https://www.linkedin.com/in/nurasylabdrazakuly)
 
-## License
+---
+
+## 📄 License
 
 MIT License — see `LICENSE.md`
 
-## Acknowledgments
+---
+
+## 🙏 Acknowledgments
 
 Thanks to open data providers, mentors, and the international data science community.
+
