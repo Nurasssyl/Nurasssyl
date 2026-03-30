@@ -1,101 +1,51 @@
+# Nurasyl Abdrazakuly
 
-# Data Science Projects by Nurasyl Abdrazakuly
+**Data Analyst & Visualization Specialist** · Almaty, Kazakhstan
 
-[![Data Scientist](https://img.shields.io/badge/Role-Data%20Scientist-blue)](https://linkedin.com/in/nurasylabdrazakuly)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-yellow?logo=python)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-4.2%2B-lightblue?logo=r)](https://www.r-project.org/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)
-[![View Portfolio](https://img.shields.io/badge/🌐%20Portfolio-nurasyl.space-black)](https://nurasyl.space)
-[![View on Kaggle](https://img.shields.io/badge/🔬%20Kaggle-Notebooks-red)](https://kaggle.com/nurasssyl)
-
-This repository contains selected data science projects by Nurasyl Abdrazakuly — a data scientist with 4+ years of experience in machine learning, business analytics, and data-driven product development. The projects range from predictive modeling and process optimization to custom visual storytelling.
-
-> 🧭 Geospatial and demographic mapping is included as a side interest and visual exploration tool.
+5+ years turning complex data into clear decisions — across fintech, insurance, and government.  
+My work has been published in **18+ media outlets** and reached **8,700+ LinkedIn followers**.
 
 ---
 
-## 🚀 Getting Started
+## What I do
 
-Clone the repository and explore each project in its own folder. Some projects are in R, others in Python — both are reproducible and documented.
+- **Analytics & Modeling** — predictive models, credit scoring, risk analytics, A/B testing
+- **Data Visualization** — 211+ interactive charts, maps, and dashboards
+- **Geospatial Analysis** — ArcGIS, QGIS, GeoPandas, OpenStreetMap
+- **Dashboards & Reporting** — Power BI, Tableau, D3.js
 
-### ⚙️ Prerequisites
+## Stack
 
-Python ≥3.9 / R ≥4.2  
-pip install -r requirements.txt  
-or install key R libraries:
-
-```r
-install.packages(c("sf", "ggplot2", "dplyr", "rayshader"))
-```
-
-### ▶️ Running
-
-Each project contains a `notebook.ipynb` or `main.R` script with inputs, processing steps, and visual outputs.
+`Python` `R` `SQL` `JavaScript` `Pandas` `NumPy` `scikit-learn`  
+`Power BI` `Tableau` `D3.js` `ArcGIS` `QGIS` `GeoPandas`  
+`PostgreSQL` `Oracle` `BigQuery` `ETL` `Kibana` `BPMN`
 
 ---
 
-## 💡 Highlighted Projects
+## Featured work
 
-🧠 **Credit Scoring Engine**  
-Built a Python model that generates credit scores from raw customer profiles, improving efficiency in loan decisions.
-
-📈 **Public Services Optimization**  
-Used data science methods to identify inefficiencies in citizen services and proposed digital transformation models.
-
-📊 **Revenue Uplift via Forecasting**  
-Created a predictive model that helped increase company revenue by 20% through better planning and targeting.
-
-🗺️ **Demographic Visualizations (Side project)**  
-Mapped ethnic diversity and urbanization in Central Asia using open geodata and customized visual aesthetics.
+| | |
+|---|---|
+| 🗺️ [Geospatial risk model · Insurance](https://nurasyl.space) | 📊 [Credit scoring system · Fintech](https://nurasyl.space) |
+| 🏛️ [GovTech digitalization · 200+ orgs](https://nurasyl.space) | 📰 [18+ media publications](https://nurasyl.space) |
 
 ---
 
-## ✅ Testing
+## In the press
 
-Each project includes small-scale validations and result sanity checks.
+Published in **Kursiv Media**, **Tengrinews**, **The Steppe**, **Hronika.kz**, **Newsline.kz** and more.  
+Topics: economics · demographics · geospatial analytics · public finance · geopolitics
 
-```bash
-pytest tests/
-Rscript test/validate.R
-```
+→ [Full portfolio: nurasyl.space](https://nurasyl.space)
 
 ---
 
-## 🌍 Deployment
+## Connect
 
-Visual outputs are exportable to:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurasyl-abdrazakuly/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://nurasyl.space)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/nurasssyl)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/data_Nurasyl)
 
-- PNG / PDF (for publications)
-- HTML maps (Leaflet / Folium)
-- Dashboards (Power BI, Tableau)
-
----
-
-## 🧰 Built With
-
-**Languages:** Python, R, C++  
-**ML/DS Libraries:** scikit-learn, TensorFlow, XGBoost, pandas, seaborn  
-**Databases:** PostgreSQL, MySQL  
-**Visualization:** Power BI, Tableau, matplotlib, ggplot2  
-**GIS (hobby):** QGIS, Leaflet, GeoPandas
-
----
-
-## 👤 Author
-
-**Nurasyl Abdrazakuly**  
-Data Scientist @ Jusan Garant  
-[🌐 Portfolio](https://nurasyl.space) | [📊 Kaggle](https://www.kaggle.com/nurasssyl) | [📎 LinkedIn](https://www.linkedin.com/in/nurasylabdrazakuly)
-
----
-
-## 📄 License
-
-MIT License — see `LICENSE.md`
-
----
-
-## 🙏 Acknowledgments
-
-Thanks to open data providers, mentors, and the international data science community.
-
+📧 nurassyl.abdrazakuly@gmail.com  
+🌍 Open to relocation to Europe · Remote worldwide
