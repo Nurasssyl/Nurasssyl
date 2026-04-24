@@ -2,8 +2,8 @@
 
 **Data Analyst & Visualization Specialist** · Almaty, Kazakhstan
 
-5+ years turning complex data into clear decisions — across fintech, insurance, and government.  
-My work has been published in **18+ media outlets** and reached **8,700+ LinkedIn followers**.
+5+ years turning complex data into clear decisions - across fintech, insurance, and government.  
+My work has been published in **18+ media outlets** and reached **9000+ LinkedIn followers**.
 
 ---
 
